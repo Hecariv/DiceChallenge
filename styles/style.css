@@ -1,0 +1,36 @@
+body {
+    background-color: #393E46;
+}
+
+h1 {
+    text-align: center;
+    margin:  30px;
+    font-family: 'Lobster', cursive;
+    font-size: 8rem;
+    color: #4ECCA3;
+}
+
+p {
+    display: block;
+    font-size: 2rem;
+    color: #4ECCA3;
+}
+
+footer {
+    text-align: center;
+    color: #eeee;
+    margin-top:  5%;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    margin: 30px;
+
+}
+
+.middle-container {
+    text-align: center;
+
+}
+
